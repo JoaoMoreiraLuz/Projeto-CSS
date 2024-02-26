@@ -2,7 +2,7 @@
     "routes": [
         {
             "src": "^/$",
-            "dest": "/Projeto-CSS/index.html"
+            "dest": "/index.html"
         }
     ]
 }
